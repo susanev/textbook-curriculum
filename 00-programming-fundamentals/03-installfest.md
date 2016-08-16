@@ -16,7 +16,7 @@ Run `$ xcode-select -p`. If it tells you `/Library/Developer/CommandLineTools`, 
 ## Homebrew
 [Homebrew](http://brew.sh/) is a **package manager** that simplifies installing software on OS X. Package managers are very common, and each language/framework/stack tends to have their own or preferred tool.
 
-To install, copypasta this into your terminal:
+To install, copypaste this into your terminal:
 
 `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 
